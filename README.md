@@ -36,7 +36,7 @@ You'll be prompted to name your component after running the `grunt` command. You
 
 ###  6. Add a Security Exception
 
-* Load the URL from Step 4 into your browser.
+* Load the URL from Step 5 into your browser.
 * The browser will complain that the security certificate is not trusted.
 * That's okay - add an exception, this will allow the component to work in Appmaker.
 
